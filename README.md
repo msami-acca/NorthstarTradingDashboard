@@ -27,7 +27,7 @@ The project uses **Power Query** to transform, filter, and restructure financial
 
 To convert financial statement data from an end-to-end bookkeeping project into visual summaries using Power BI, demonstrating practical skills in data transformation, reporting, and financial data presentation.
 
-**Source project:** ![link](https://github.com/msami-acca/NorthStarTradingIFRSBookkeeping/tree/main)
+**Source project:** [link](https://github.com/msami-acca/NorthStarTradingIFRSBookkeeping/tree/main)
 
 ---
 
@@ -37,11 +37,11 @@ The report presents a visual summary of the company's financial position and per
 
 ### Financial Performance
 
-![Financial Performance Dashboard](Images/Financial Performance.png)
+![Financial Performance Dashboard](Images/financial-performance.png)
 
 ### Financial Position
 
-![Financial Position Dashboard](Images/Financial Position.png)
+![Financial Position Dashboard](Images/financial-position.png)
 
 The visuals include:
 
