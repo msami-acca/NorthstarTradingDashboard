@@ -96,4 +96,4 @@ This project is for educational demonstration and should not be interpreted as p
 
 © 2026 Muhammad Sami. All rights reserved.
 
-Please obtain permission before reproducing or redistributing this work or presenting it as your own.
+This project is provided for viewing and educational purposes only. Copying, reproducing, redistributing, modifying, or presenting any part of this work as your own is prohibited without prior permission.
