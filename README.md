@@ -1,4 +1,4 @@
-# NorthStar Trading Ltd. — Financial Dashboard (Power BI)
+# NorthStar Trading Ltd. — Financial Dashboard
 
 A financial reporting and visualization project built in **Microsoft Power BI** using financial statements generated from an end-to-end simulated bookkeeping project for a fictional UK private company engaged in B2B technology equipment distribution.
 
